@@ -17,16 +17,24 @@ pip install moviepy
 Change text text_video.txt
 
 Hi, friend!
-How are you?
-What are you doing?
-How can I help you?
-Want to talk?
-Let's be friends?
-What are you doing?
-What are you doing 2?
-What are you doing 3?
-What are you doing 4?
 
+How are you?
+
+What are you doing?
+
+How can I help you?
+
+Want to talk?
+
+Let's be friends?
+
+What are you doing?
+
+What are you doing 2?
+
+What are you doing 3?
+
+What are you doing 4?
 
 
 Execute :
