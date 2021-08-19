@@ -37,9 +37,13 @@ What are you doing 3?
 What are you doing 4?
 
 
-Execute :
+# Execute :
 
 slideshow.py img example.gif "igoradmtg" text_video.txt 300 200 3 2 gif
+
+or
+
+slideshow.py img example.mp4 "igoradmtg" text_video.txt 300 200 3 2
 
 img - Dir name images
 
